@@ -1,0 +1,1 @@
+INSERT INTO `admin_user` VALUES ('1', 'vastlee', '5f8bf67d43f059e21d5bb3919a2c8151223325d9', 'zhihuoadmin', '1', '1', null, '', '', null, '', '1', '1', '1', '', '1', null, '', '1541747111', '', null, '', '1');
